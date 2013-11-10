@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48538C7B-E118-4AEB-8ABF-4A0B3B74EC5D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Print-View</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27D360B2-92B9-4D45-B524-6A85D64D66EA</key>
+		<string>https://github.com/jonbrown21/Print-View.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Print-View.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27D360B2-92B9-4D45-B524-6A85D64D66EA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jonbrown21/Print-View.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27D360B2-92B9-4D45-B524-6A85D64D66EA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27D360B2-92B9-4D45-B524-6A85D64D66EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Print-View</string>
+		</dict>
+	</array>
+</dict>
+</plist>
